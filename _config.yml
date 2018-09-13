@@ -1,10 +1,10 @@
 # Site settings
-title: Blog
-SEOTitle: 廖鹏的博客 | BY Blog
+title: LP Blog
+SEOTitle: 廖鹏的博客 | LP Blog
 header-img: img/post-bg-desk.jpg
 email: liaoepng230@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 廖鹏的博客, iOS, Apple, iPhone"
+keyword: "LP, LP Blog, 廖鹏的博客, DATA, SQL, ML "
 url: "http://liaopengpeng230.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liaopengpeng230/liaopengpeng230.github.io.git" # you code repository
